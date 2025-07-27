@@ -34,7 +34,7 @@ The final scores follow a normal distribution, with a majority of wallets cluste
 #### Feature Importance
 The model's logic is driven primarily by DeFi-specific metrics, with `borrow_to_supply_ratio` having the most significant impact on the final score.
 
-![Feature Importance](feature_importance.png)
+![Feature Importance](Feature_Importance.png)
 
 ---
 
