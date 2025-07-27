@@ -18,7 +18,7 @@ The risk assessment is based on a weighted model that considers both foundationa
 * **Behavioral Classification:** Transactions are classified into `supply`, `withdraw`, and `borrow/repay` to understand user intent.
 * **Standard Health Indicators:** Includes `successful_tx_rate`, `wallet_age_days`, `is_active_recently`, and `unique_contracts_interacted`.
 
-For a complete breakdown, please see the **[Methodology Report](Methodology.md)**.
+For a complete breakdown, please see the **[Methodology Report](Methodologies-Wallet Risk Scoring Model.docx)**.
 
 ---
 
