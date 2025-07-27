@@ -29,7 +29,7 @@ The model successfully differentiates between low-risk, established users and hi
 #### Score Distribution
 The final scores follow a normal distribution, with a majority of wallets clustering in the median-risk range, indicating a typical low-activity user profile.
 
-![Score Distribution](score_distribution.png)
+![Score Distribution](Distribution_of_wallet_risk_scores.png)
 
 #### Feature Importance
 The model's logic is driven primarily by DeFi-specific metrics, with `borrow_to_supply_ratio` having the most significant impact on the final score.
